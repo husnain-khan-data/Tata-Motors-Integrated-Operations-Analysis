@@ -212,7 +212,7 @@ Operational Explanation
 
 ## 👨‍💻 Author
 
-**Nithin V Anil**
+**Husnain Khan**
 
 ---
 
